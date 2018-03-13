@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First Kotlin App</string>
+    <string name="numberslist">Numbers List</string>
+    <string name="evenlist">Even numbers List</string>
+    <string name="oddlist">Odd numbers List</string>
+</resources>
