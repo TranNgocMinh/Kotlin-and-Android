@@ -7,4 +7,5 @@
 <ul>
 <li><a href="https://dzone.com/articles/using-kotlin-in-android-studio-30-part-1">Part 1</a></li>
 <li><a href="https://dzone.com/articles/using-kotlin-in-android-studio-30-part-2">Part 2</a> (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part2">Code</a>)</li>
+<li>Part 3 (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part3">Code</a>)</li>
 </ul>
