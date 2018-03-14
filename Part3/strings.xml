@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Kotlin App</string>
+    <string name="id">Enter ID</string>
+    <string name="name">Enter Name</string>
+    <string name="university">Enter University</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="data">Data</string>
+</resources>
