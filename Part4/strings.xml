@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First Kotlin App</string>
+    <string name="value1">Enter first value</string>
+    <string name="value2">Enter second value</string>
+    <string name="result"></string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="calculate">Calculate</string>
+</resources>
