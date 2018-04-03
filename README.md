@@ -9,5 +9,5 @@
 <li><a href="https://dzone.com/articles/using-kotlin-in-android-studio-30-part-2">Part 2</a> (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part2">Code</a>)</li>
 <li><a href="https://dzone.com/articles/using-kotlin-in-android-studio-30-part-3">Part 3</a> (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part3">Code</a>)</li>
 <li><a href="https://dzone.com/articles/using-kotlin-in-android-studio-30-part-4">Part 4 </a> (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part4">Code</a>)</li>
-<li>Part 5 (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part5">Code</a>)</li>
+<li><a href="https://dzone.com/articles/using-kotlin-in-android-studio-30-part-5">Part 5</a> (<a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/Part5">Code</a>)</li>
 </ul>
