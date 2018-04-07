@@ -2,7 +2,7 @@
 <ul>
 <li><a href="https://dzone.com/articles/introduction-to-android-programming-using-the-andr">Introduction to Android Programming in Android Studio 3.0</a></li>
 <li><a href="https://dzone.com/articles/create-a-database-android-application-in-android-s">Create a Database Android Application in Android Studio 3.0</a></li>
-  <li>Create an Android Application to experience <href="https://ngocminhtran.com/">ngocminhtran.com</a> on Android devices. Download <a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/ngocminhtranApp">source</a> and <a href="https://github.com/TranNgocMinh/Kotlin-and-Android/blob/master/ngocminhtranApp/app-debug.apk">app</a>.</a></li>
+  <li>Create an Android Application to experience <a href="https://ngocminhtran.com/">ngocminhtran.com</a> on Android devices. Download <a href="https://github.com/TranNgocMinh/Kotlin-and-Android/tree/master/ngocminhtranApp">source</a> and <a href="https://github.com/TranNgocMinh/Kotlin-and-Android/blob/master/ngocminhtranApp/app-debug.apk">app</a>.</a></li>
 </ul>
 <h2>Using Kotlin in Android Studio 3.0</h2>
 <ul>
