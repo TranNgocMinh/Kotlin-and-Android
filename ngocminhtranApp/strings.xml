@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ngocminhtranApp</string>
+    <string name="Blog">Bài viết</string>
+    <string name="MyBooks">Sách</string>
+</resources>
