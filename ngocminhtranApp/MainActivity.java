@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
         View view = findViewById(item.getItemId());
         if (view != null && view instanceof TextView) {
-            ((TextView) view).setTextColor( Color.DKGRAY ); // Make text colour blue
+            ((TextView) view).setTextColor( Color.DKGRAY ); 
         }
         switch (item.getItemId()) {
             case R.id.blog:
@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
                 actionBar.setDisplayHomeAsUpEnabled(false);
                 view = findViewById(R.id.mybooks);
                 if (view != null && view instanceof TextView) {
-                    ((TextView) view).setTextColor( Color.WHITE ); // Make text colour blue
+                    ((TextView) view).setTextColor( Color.WHITE ); 
                 }
                 return true;
 
@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
                 view = findViewById(R.id.mybooks);
                 view = findViewById(R.id.blog);
                 if (view != null && view instanceof TextView) {
-                    ((TextView) view).setTextColor( Color.WHITE ); // Make text colour blue
+                    ((TextView) view).setTextColor( Color.WHITE ); 
                 }
                 return true;
 
