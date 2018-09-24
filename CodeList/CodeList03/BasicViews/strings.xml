@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BasicViews</string>
+    <string name="txtName">Name:</string>
+    <string name="txtEmail">Email:</string>
+    <string name="editName"></string>
+    <string name="editEmail"></string>
+    <string name="txtCheckBoxTitle">Hobbies</string>
+    <string name="chkReading">Reading</string>
+    <string name="chkTravelling">Travelling</string>
+    <string name="chkCoding">Coding</string>
+    <string name="rdMale">Male</string>
+    <string name="rdFemale">Female</string>
+    <string name="txtSex">Sex</string>
+    <string name="txtLan">Languages</string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="txtexpert">You have experience with Java framewoks</string>
+    <string name="txtBirthday">Birthday</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnInfo">Infomation</string>
+</resources>
