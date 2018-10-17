@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="change_text">Change Text</string>
+</resources>
